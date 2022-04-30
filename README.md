@@ -88,7 +88,19 @@
     </p>
     <dd>10. O que é a estimativa na metodologia ágil?</dd>
          <p>É atribuir um fator de custo a tudo no backlog. Essa ponderação de custo pode ser usada para medir a velocidade da equipe, tomar melhores decisões em torno da priorização de recursos ou para desenvolver previsões e roteiros. Muitos fatores influenciam no resultado da estimativa, como:conhecimento sobre o contexto e sobre o que deve ser feito;interferências internas e externas; maturidade do time entre outros. </p>
-
+         <br>
+<h4>Tema 4: Fundamentos HTTP<h4>
+    <br>
+<dd>11. O que é o protocolo HTTP? Qual a diferença entre HTTP e HTTPS? <dd>
+    <p> O HTTP é um protocolo que define as regras de comunicação entre cliente e servidor na internet.Ele é responsável por definir a forma  como os dados são trafegados na rede através de várias regras. No HTTP, todos os dados enviados entre cliente e servidor são transmitidos em texto puro, inclusive dados sensíveis, como login e senha . O HTTPS, é o HTTP comum, porém com uma camada adicional de segurança/criptografia O HTTPS para garantir segurança usa criptografia baseada em chaves públicas e privadas e para gerar essas chaves públicas e privadas é preciso garantir a identidade de quem possui essas chaves e isso é feito a partir de um certificado digital, ou seja, um certificado digital é utilizado para identificar determinada entidade e ainda é utilizada para geração das chaves de criptografia.</p>
+    <br>
+<dd>12. Cite 4 métodos HTTP<dd>
+    <lo>
+    <li>GET : é utilizado para a busca de informações.</li>
+    <li>POST: É utilizado para incluir os parâmetros no corpo da requisição.</li>
+    <li>DELETE : existe para enviar uma requisição com a intenção de remover um recurso.</li>
+    <li>PUT : utilizado para atualizar um recurso.</li>
+    </lo>
 
 </body>
 
