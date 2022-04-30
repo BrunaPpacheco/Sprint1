@@ -1,12 +1,10 @@
 
 <img src=logo.png>
 <br>
-
+<body>
 <h1>Avaliação da Sprint 1<h1>
 <h2>Tema: Segurança de redes: Conheça as vulnerabilidades de servidores e clientes<h2> 
 <br>
-
-<body>
 <dd>1. O que é um ataque DDoS e como posso me proteger?<dd>
 <br>
     <p>
@@ -26,16 +24,35 @@
     <br>
     <b>Instalar um sistema de detecção de intrusos</b>. A maior parte deles conta com soluções para proteger sistemas em caso de ataques DDoS, como a verificação de conexão, que impede que certas solicitações cheguem até as páginas e redes.
     <br>
-    <b>Usar um serviço de proteção remota de DDoS:</b> Vários fornecedores oferecem o recurso e eles têm dispositivos de prevenção especificamente projetados para detectar e interromper ataques DDoS em curso.
-<p>
+    <b>Usar um serviço de proteção remota de DDoS:</b> Vários fornecedores oferecem o recurso e eles têm dispositivos de prevenção especificamente projetados para detectar e interromper ataques DDoS em curso.<p>
 <br>
 <dd>2. Por que o firewall é uma ferramenta muito importante de proteção?<dd>
 <br>
     <p>Porque é uma ferramenta que oferece proteção contra programas ou invasores mal-intencionados, impedindo que eles obtenham acesso à rede e informações antes que qualquer dano potencial seja causado. Ele impede tanto a entrada quanto a saída de informações confidenciais controlando a transferência de dados do computador através da internet, prevenindo o envio de arquivos privados à rede, mantendo informações sigilosas protegidas e permitindo acesso somente a pessoas autorizadas<p>
 
-    
-    <body>
-    
+<h2>Tema: Git e GitHub <h2>
+<br>
+<dd>3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o repositório do projeto.<dd>
+<br>   
+<dd>4. Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.<dd>
+    <p>
+    Uma branch é uma ramificação do código principal. Elas são utilizadas para desenvolver funcionalidades isoladas uma das outras quando trabalhamos em um projeto. Permite que cada desenvolvedor utilize uma branch (ou ramo) diferente para fazer alterações, parar o desenvolvimento, retornar depois de um tempo, tudo isso sem alterar o que já está em andamento em um projeto evitando problemas.
+    <p>
+<br>
+
+<dd>5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.<dd>
+<br>
+    <p>
+    Repositório local é uma ramificação do seu código que apenas você vê, ou seja, está apenas no seu computador localmente. Exemplo, quando você cria um branch (com git branch nome-do-branch, ele estará visível apenas para você. O repositório remoto (nuvem), é quando está alocado em um outro local remotamente, geralmente público ou restrito a um grupo de pessoas. Ex: Quando você usa o comando git push origin nome-do-branch você está pegando o seu branch local e colocando ele para origin, um “lugar” remoto. 
+    </p>
+<dd> 6. Qual a diferença entre Git e GitHub?<dd>
+    <p>GIT : é um sistema de controle de versão de código distribuído, open source e gratuito ou seja, ele é o sistema que versiona o código, permitindo o trabalho em equipe sem que alguém sobrescreva o código de outra pessoa, além de criar um histórico completo do código, possibilitando voltar a versão anterior caso seja necessário.
+    <br>
+     GITHUB:  é uma plataforma de desenvolvimento para armazenar códigos, gerenciar projetos e construir softwares e aplicações. Ou seja, ele é uma hospedagem web para os  projetos em que há a necessidade do controle de versão. Ele é como um portfólio de códigos e uma espécie de rede social de desenvolvedores, pois possui feed, seguidores e é gratuito (para projetos públicos). 
+    </p>
+
+</body>
+
 
 
 
